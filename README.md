@@ -3,8 +3,9 @@
 - [x] Import Data
 - [x] Process Data
 - [ ] Plot statistics for the data
-- [ ] Split data into train and test sets
-- [ ] Pick variables for logistic regression
-- [ ] Set up logistic regression
-- [ ] Test model
+- [x] Split data into train and test sets
+- [x] Set up logistic regression
+- [x] Test model
 - [ ] Show results
+- [ ] Add cross validation
+- [ ] Fix data processing so normalization is done after split
